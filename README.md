@@ -1,1 +1,1 @@
-# CheckListForWebElements
+# Чек-листы для элементов веб-страницы
